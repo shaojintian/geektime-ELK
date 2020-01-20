@@ -1,7 +1,7 @@
 version: '2.2'
 services:
   cerebro:
-    image: lmenezes/cerebro:0.8.3
+    image: lmenezes/cderebro:0.8.3
     container_name: cerebro
     ports:
       - "9000:9000"
